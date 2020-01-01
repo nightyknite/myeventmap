@@ -1,0 +1,2 @@
+# myeventmap
+connpassの自分の参加イベント情報をGoogleMapにマークする
